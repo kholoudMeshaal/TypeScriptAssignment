@@ -1,3 +1,5 @@
+
+// UML Link : https://app.diagrams.net/?libs=general;uml#
 // 1. base
 // ==========================================
 class User {
